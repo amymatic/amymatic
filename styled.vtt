@@ -1,16 +1,12 @@
 WEBVTT
 
 STYLE
-::cue {
-  background-image: linear-gradient(to bottom, dimgray, lightgray);
-  text-align: center;
-  width: 100%;
-}
+::cue { background: #6772e5; color: #fff; font-family: Lato; text-align: center; }
 
 00:00:00.000 --> 00:00:00.000
 
 
-00:00:03.170 --> 00:00:05.170 line:11 position:50% align:center size:100%
+00:00:03.170 --> 00:00:05.170 line:8 position:50% align:center size:100%
 YOU KNOW, THEY TREAT ME LIKE A CRIMINAL.
 
 00:00:05.339 --> 00:00:07.339 line:11 position:50% align:center size:100%
@@ -33,14 +29,14 @@ YOU'RE MAKING ME TIRED ALL OVER, SMALLS.
 WELL, FUCK IT THEN.
 I HEARD YOU WERE DEAD.
 
-00:00:21.956 --> 00:00:24.123 line:11 position:50% align:center size:100%
+00:00:21.956 --> 00:00:24.123 line:8 position:50% align:center size:100%
 OH, YEAH?
 WELL, YOU HEARD RIGHT.
 
 00:00:24.458 --> 00:00:26.458 line:11 position:50% align:center size:100%
 WORD I GOT IS YOU HUNG UP YOUR SPURS, MAN.
 
-00:00:26.694 --> 00:00:29.128 line:11 position:50% align:center size:100%
+00:00:26.694 --> 00:00:29.128 line:8 position:50% align:center size:100%
 WHAT'S THAT ALL ABOUT?
 WHAT'S THIS?
 
