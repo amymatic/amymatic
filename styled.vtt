@@ -3,7 +3,10 @@ WEBVTT
 STYLE
 ::cue {
   background-image: linear-gradient(to bottom, dimgray, lightgray);
-  color: papayawhip;
+  align: center;
+  line: 11;
+  position: 50%;
+  size: 100%;
 }
 
 00:00:00.000 --> 00:00:00.000
